@@ -101,10 +101,7 @@ function create_config( )
     "Time",
     "Tools",
     "Write",
-    "Aparat",
-    "bing",
-    "rps",
-    "times"
+    "rps"
 	},
     sudo_users = {568648970,319468568},
     admins = {},
