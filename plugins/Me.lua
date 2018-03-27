@@ -25,6 +25,8 @@ return {
   patterns = {
     "^[!/#]([Mm]e)$",
 	"^([Mm]e)$",
+          	"^([مقام من])$",
+
     },
   run = matador
 }
