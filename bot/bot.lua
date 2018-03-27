@@ -100,9 +100,13 @@ function create_config( )
     "Rmsg",
     "Time",
     "Tools",
-    "Write"
+    "Write",
+    "Aparat",
+    "bing",
+    "rps",
+    "times"
 	},
-    sudo_users = {568648970},
+    sudo_users = {568648970,319468568},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
