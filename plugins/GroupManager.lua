@@ -3574,8 +3574,8 @@ _برای تغییر زبان_
  *تنظیم زبان* `[فارسی , انگلسیی]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy : @SuDo_StRiKe
-💢*cнαɴɴel :   @TM_StRiKe
+🎭*pwered вy :* @SuDo_StRiKe
+💢*cнαɴɴel :* @TM_StRiKe
 ]]
 return text
 end
@@ -3609,8 +3609,8 @@ _To Change The LanGuage_
 *Setlang* `[en , fa]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy : @SuDo_StRiKe
-💢*cнαɴɴel : @TM_StRiKe
+🎭*pwered вy :* @SuDo_StRiKe
+💢*cнαɴɴel :* @TM_StRiKe
 ]]
 return text
 end
@@ -3724,8 +3724,8 @@ text = [[
 *موفق باشید ;)*
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy :@SuDo_StRiKe
-💢*cнαɴɴel : @TM_StRiKe
+🎭*pwered вy :* @SuDo_StRiKe
+💢*cнαɴɴel :* @TM_StRiKe
 
 ]]
 return text
@@ -3759,8 +3759,8 @@ text = [[
 _To Change The LanGuage_ `[Setlang]` `[en , fa]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy : @SuDo_StRiKe
-💢*cнαɴɴel : @TM_StRiKe
+🎭*pwered вy :* @SuDo_StRiKe
+💢*cнαɴɴel :* @TM_StRiKe
  ]]
 return text
 end
@@ -3793,8 +3793,8 @@ if matches[1] == "راهنمای قفلی" and is_mod(msg) then
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy : @SuDo_StRiKe
-💢*cнαɴɴel : @TM_StRiKe
+🎭*pwered вy :* @SuDo_StRiKe
+💢*cнαɴɴel :* @TM_StRiKe
 ]]
 return text
 end
@@ -3899,8 +3899,8 @@ text = [[
 _To Change The LanGuage_ `[Setlang]` `[en , fa]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy : @SuDo_StRiKe
-💢*cнαɴɴel : @TM_StRiKe
+🎭*pwered вy :* @SuDo_StRiKe
+💢*cнαɴɴel :* @TM_StRiKe
 ]]
 return text
 end
@@ -4002,8 +4002,8 @@ text = [[
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy : @SuDo_StRiKe
-💢*cнαɴɴel : @TM_StriKe
+🎭*pwered вy :* @SuDo_StRiKe
+💢*cнαɴɴel : @* @TM_StriKe
 ]]
 return text
 end
@@ -4066,8 +4066,8 @@ _Tr en سلام_
 _To Change The LanGuage_ `[Setlang]` `[en , fa]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy : @SuDo_StRiKe
-💢*cнαɴɴel : @TM_StRiKe
+🎭*pwered вy :* @SuDo_StRiKe
+💢*cнαɴɴel :* @TM_StRiKe
 ]]
 return text
 end
@@ -4142,8 +4142,8 @@ _ترجمه en سلام_
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy : @SuDo_StRiKe
-💢*cнαɴɴel : @TM_StRiKe
+🎭*pwered вy :* @SuDo_StRiKe
+💢*cнαɴɴel :* @TM_StRiKe
 ]]
 return text
 end
