@@ -101,7 +101,14 @@ function create_config( )
     "Time",
     "Tools",
     "Write",
-    "rps"
+    "rps",
+    "joke",
+   "jomlak",
+   "map",
+   "gps",
+   "linkpv",
+   "chat",
+
 	},
     sudo_users = {568648970,319468568},
     admins = {},
