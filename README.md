@@ -20,7 +20,7 @@ chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/MRMahDiRoO/BOT1.git && cd BOT1 && chmod +x matador.sh && chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh && ./matador.sh install && ./matador.sh
+cd $HOME && git clone https://github.com/telestrik/BOT1.git && cd BOT1 && chmod +x matador.sh && chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh && ./matador.sh install && ./matador.sh
 ```
 
 * * *
