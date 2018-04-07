@@ -1,4 +1,4 @@
-# [TeleStRike](https://telegram.me/TM_StRiKe)
+# [TeleStRike](https://telegram.me/TMStriKe)
 
 
 * * *
