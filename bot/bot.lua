@@ -101,12 +101,6 @@ function create_config( )
     "Time",
     "Tools",
     "Write",
-    "rps",
-    "SetNerkh",
-    "add",
-    "Gif",
-   "linkpv",
-
 	},
     sudo_users = {568648970,319468568},
     admins = {},
